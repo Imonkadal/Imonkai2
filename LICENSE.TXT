@@ -1,0 +1,12 @@
+Imonkai - Licencia de Uso Libre con Atribución y Notificación
+Derechos de autor (c) [2024] [Imonkadal|
+
+Se concede permiso por la presente a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para tratar en el Software sin restricción, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y permitir a las personas a quienes se les proporcione el Software hacerlo, sujeto a las siguientes condiciones:
+
+1. Atribución: Se debe proporcionar una referencia adecuada al autor original del software (es decir, una mención de tu nombre o usuario de GitHub) en cualquier uso o distribución del código, ya sea original o modificado.
+
+2. Notificación de modificaciones: Si el Software es modificado, la persona o entidad que realice las modificaciones deberá notificarte sobre tales cambios, proporcionando detalles del cambio y el repositorio o código resultante. La notificación puede hacerse a través de imonkadal2@gmail.com.
+
+El aviso de derechos de autor y esta lista de condiciones deben incluirse en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DEL COPYRIGHT SERÁN RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO MODO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTRO TIPO DE OPERACIONES EN EL SOFTWARE.

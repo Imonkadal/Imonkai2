@@ -1,0 +1,38 @@
+********************************************
+*                                          *
+*               IMONKAI                    *
+*                                          *
+*       Instrucciones de Uso               *
+*                                          *
+********************************************
+
+¡Bienvenido a Imonkai!
+
+Este software es tu compañero ideal para tus actividades de seguridad inform[atica, puntualmente para el pentest.
+
+A continuación, te presentamos las instrucciones básicas para comenzar:
+
+1. **Instalación:**
+   - CLona el repositorio
+   - Instala los requisitos.
+   - Obten tu API_TOKEN
+   - Ejecuta la aplicacion
+
+2. **Funcionalidades Principales:**
+   - **Esta aplicacion esta apoyada por la IA Gemini, el objetivo principal es brindar un apoyo a las personas que recien estan comenzando en el mundo del pentest, brindando respuestas de como podria guiar una actividad de ethical hackig**
+   
+3. **Soporte:**
+   - Si tienes alguna duda, contacta con nuestro equipo a través de imonkadal2@gmail.com.
+
+
+
+**Disclaimer:**
+El uso del software Imonkai es bajo tu responsabilidad. El fin de este software es netamente para actividades en las cuales se tiene autorización legal del dueño del activo. Imonkai no se hace responsable por el uso que le den las personas que lo descarguen.
+
+Te recordamos que es fundamental usar este software de manera ética y responsable. Asegúrate de respetar las leyes y regulaciones aplicables, así como los derechos de propiedad de los demás. La integridad y el respeto son pilares fundamentales en cualquier actividad.
+
+********************************************
+
+¡Esperamos que disfrutes usando Imonkai y que te ayude a ser más productivo!
+
+********************************************
